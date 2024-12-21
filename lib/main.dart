@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:giga/screen/crypto_screen.dart';
-import 'package:giga/screen/home_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

@@ -43,12 +43,6 @@ class _CryptoScreenState extends State<CryptoScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // floatingActionButton: FloatingActionButton(
-      //   onPressed: () {
-      //     print("---------------------$data");
-      //   },
-      //   child: Icon(Icons.add),
-      // ),
       backgroundColor: Colors.amber,
       appBar: AppBar(
         backgroundColor: Colors.transparent,
